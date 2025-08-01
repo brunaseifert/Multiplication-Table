@@ -21,16 +21,26 @@ View the multiplication table for the second number
 
 Sample Output
 Enter a number: 4
+
 4 x 1 = 4
+
 4 x 2 = 8
+
 ...
+
 4 x 10 = 40
 
+
 Enter another number: 7
+
 7 x 1 = 7
+
 7 x 2 = 14
+
 ...
+
 7 x 10 = 70
+
 
 # Requirements
 Python 3 installed
